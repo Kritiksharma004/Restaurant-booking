@@ -8,7 +8,7 @@ const types = {
         BASE_URL: "https://stage.test.com/",
     },
     production: {
-        BASE_URL: "https://cs-476-backend-niravpd8000.vercel.app/api/",
+        BASE_URL: "https://restaurant-booking-backend-steel.vercel.app/api/",
     }
 };
 
